@@ -254,8 +254,18 @@
                     const date = new Date(data.last_updated);
                     document.getElementById('last-updated').textContent = date.toLocaleString();
                     
-                    // Set next update time
-                    nextUpdateTime = date.getTime() + 3600000;
+                    // Calculate next update time: last update + 1 hour
+                    const lastUpdateTime = date.getTime();
+                    const timeSinceLastUpdate = Date.now() - lastUpdateTime;
+                    const oneHour = 3600000; // 1 hour in milliseconds
+                    
+                    // If more than an hour has passed, set next update to current time + 1 hour
+                    // Otherwise, set it to last update + 1 hour
+                    if (timeSinceLastUpdate >= oneHour) {
+                        nextUpdateTime = Date.now() + oneHour;
+                    } else {
+                        nextUpdateTime = lastUpdateTime + oneHour;
+                    }
                 }
                 
                 if (data.file_size) {
@@ -309,11 +319,21 @@
                 return;
             }
             
-            const minutes = Math.floor(timeLeft / 60000);
+            const hours = Math.floor(timeLeft / 3600000);
+            const minutes = Math.floor((timeLeft % 3600000) / 60000);
             const seconds = Math.floor((timeLeft % 60000) / 1000);
             
+            let timeString;
+            if (hours > 0) {
+                timeString = `${hours}h ${minutes}m ${seconds}s`;
+            } else if (minutes > 0) {
+                timeString = `${minutes}m ${seconds}s`;
+            } else {
+                timeString = `${seconds}s`;
+            }
+            
             document.getElementById('countdown').textContent = 
-                `Next update in ${minutes}:${seconds.toString().padStart(2, '0')}`;
+                `Next update in ${timeString}`;
         }
         
         function refreshDocument() {
