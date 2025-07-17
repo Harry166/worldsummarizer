@@ -1,0 +1,179 @@
+2025-07-17 17:50:46,271 - INFO - WorldSummarize started
+2025-07-17 17:50:46,272 - INFO - Starting news scraping session
+2025-07-17 17:50:46,272 - INFO - Scraping RSS feed: https://feeds.bbci.co.uk/news/world/rss.xml
+2025-07-17 17:50:46,438 - INFO - Successfully scraped 5 articles from https://feeds.bbci.co.uk/news/world/rss.xml
+2025-07-17 17:50:46,438 - INFO - Scraping RSS feed: https://rss.cnn.com/rss/cnn_topstories.rss
+2025-07-17 17:50:46,531 - WARNING - Failed to parse RSS feed properly: https://rss.cnn.com/rss/cnn_topstories.rss
+2025-07-17 17:50:46,532 - INFO - Scraping RSS feed: https://feeds.reuters.com/reuters/topNews
+2025-07-17 17:50:46,568 - WARNING - Failed to parse RSS feed properly: https://feeds.reuters.com/reuters/topNews
+2025-07-17 17:50:46,569 - INFO - Scraping RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+2025-07-17 17:50:46,735 - INFO - Successfully scraped 5 articles from https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+2025-07-17 17:50:46,736 - INFO - Scraping RSS feed: https://www.theguardian.com/world/rss
+2025-07-17 17:50:46,883 - INFO - Successfully scraped 5 articles from https://www.theguardian.com/world/rss
+2025-07-17 17:50:46,884 - INFO - Scraping RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+2025-07-17 17:50:46,993 - INFO - Successfully scraped 5 articles from https://www.aljazeera.com/xml/rss/all.xml
+2025-07-17 17:50:46,994 - INFO - Scraping RSS feed: https://feeds.npr.org/1001/rss.xml
+2025-07-17 17:50:47,113 - INFO - Successfully scraped 5 articles from https://feeds.npr.org/1001/rss.xml
+2025-07-17 17:50:47,113 - INFO - Scraping RSS feed: https://feeds.washingtonpost.com/rss/world
+2025-07-17 17:50:47,275 - WARNING - Failed to parse RSS feed properly: https://feeds.washingtonpost.com/rss/world
+2025-07-17 17:50:47,275 - INFO - Scraping RSS feed: https://feeds.bloomberg.com/markets/news.rss
+2025-07-17 17:50:47,500 - INFO - Successfully scraped 5 articles from https://feeds.bloomberg.com/markets/news.rss
+2025-07-17 17:50:47,501 - INFO - Scraping RSS feed: https://feeds.ft.com/rss/home
+2025-07-17 17:50:47,532 - WARNING - Failed to parse RSS feed properly: https://feeds.ft.com/rss/home
+2025-07-17 17:50:47,533 - INFO - Scraping RSS feed: https://feeds.arstechnica.com/arstechnica/index
+2025-07-17 17:50:47,659 - INFO - Successfully scraped 5 articles from https://feeds.arstechnica.com/arstechnica/index
+2025-07-17 17:50:47,659 - INFO - Scraping RSS feed: https://www.wired.com/feed/rss
+2025-07-17 17:50:47,853 - INFO - Successfully scraped 5 articles from https://www.wired.com/feed/rss
+2025-07-17 17:50:47,854 - INFO - Total unique articles collected: 40
+2025-07-17 17:50:47,862 - INFO - PDF created successfully: world_summary.pdf
+2025-07-17 17:50:47,862 - INFO - News scraping session completed successfully
+2025-07-17 17:56:31,544 - INFO - WorldSummarize started
+2025-07-17 17:56:31,544 - INFO - Starting news scraping session
+2025-07-17 17:56:31,544 - INFO - Scraping RSS feed: https://feeds.bbci.co.uk/news/world/rss.xml
+2025-07-17 17:56:31,687 - INFO - Successfully scraped 5 articles from https://feeds.bbci.co.uk/news/world/rss.xml
+2025-07-17 17:56:31,688 - INFO - Scraping RSS feed: https://rss.cnn.com/rss/cnn_topstories.rss
+2025-07-17 17:56:31,777 - WARNING - Failed to parse RSS feed properly: https://rss.cnn.com/rss/cnn_topstories.rss
+2025-07-17 17:56:31,778 - INFO - Scraping RSS feed: https://feeds.reuters.com/reuters/topNews
+2025-07-17 17:56:31,815 - WARNING - Failed to parse RSS feed properly: https://feeds.reuters.com/reuters/topNews
+2025-07-17 17:56:31,816 - INFO - Scraping RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+2025-07-17 17:56:31,951 - INFO - Successfully scraped 5 articles from https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+2025-07-17 17:56:31,952 - INFO - Scraping RSS feed: https://www.theguardian.com/world/rss
+2025-07-17 17:56:32,093 - INFO - Successfully scraped 5 articles from https://www.theguardian.com/world/rss
+2025-07-17 17:56:32,093 - INFO - Scraping RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+2025-07-17 17:56:32,214 - INFO - Successfully scraped 5 articles from https://www.aljazeera.com/xml/rss/all.xml
+2025-07-17 17:56:32,214 - INFO - Scraping RSS feed: https://feeds.npr.org/1001/rss.xml
+2025-07-17 17:56:32,347 - INFO - Successfully scraped 5 articles from https://feeds.npr.org/1001/rss.xml
+2025-07-17 17:56:32,347 - INFO - Scraping RSS feed: https://feeds.washingtonpost.com/rss/world
+2025-07-17 17:56:32,415 - WARNING - Failed to parse RSS feed properly: https://feeds.washingtonpost.com/rss/world
+2025-07-17 17:56:32,416 - INFO - Scraping RSS feed: https://feeds.bloomberg.com/markets/news.rss
+2025-07-17 17:56:32,581 - INFO - Successfully scraped 5 articles from https://feeds.bloomberg.com/markets/news.rss
+2025-07-17 17:56:32,582 - INFO - Scraping RSS feed: https://feeds.ft.com/rss/home
+2025-07-17 17:56:32,611 - WARNING - Failed to parse RSS feed properly: https://feeds.ft.com/rss/home
+2025-07-17 17:56:32,612 - INFO - Scraping RSS feed: https://feeds.arstechnica.com/arstechnica/index
+2025-07-17 17:56:32,797 - INFO - Successfully scraped 5 articles from https://feeds.arstechnica.com/arstechnica/index
+2025-07-17 17:56:32,797 - INFO - Scraping RSS feed: https://www.wired.com/feed/rss
+2025-07-17 17:56:32,909 - INFO - Successfully scraped 5 articles from https://www.wired.com/feed/rss
+2025-07-17 17:56:32,910 - INFO - Total unique articles collected: 40
+2025-07-17 17:56:32,915 - INFO - Archived previous summary to archive/world_summary_20250717_175632.pdf
+2025-07-17 17:56:32,923 - INFO - PDF created successfully: world_summary.pdf
+2025-07-17 17:56:32,924 - INFO - News scraping session completed successfully
+2025-07-17 18:00:36,469 - INFO - WorldSummarize started
+2025-07-17 18:00:36,470 - INFO - Starting news scraping session
+2025-07-17 18:00:36,471 - INFO - Scraping RSS feed: https://feeds.bbci.co.uk/news/world/rss.xml
+2025-07-17 18:00:36,572 - INFO - Successfully scraped 10 articles from https://feeds.bbci.co.uk/news/world/rss.xml
+2025-07-17 18:00:36,573 - INFO - Scraping RSS feed: https://rss.cnn.com/rss/cnn_topstories.rss
+2025-07-17 18:00:36,620 - WARNING - Failed to parse RSS feed properly: https://rss.cnn.com/rss/cnn_topstories.rss
+2025-07-17 18:00:36,621 - INFO - Scraping RSS feed: https://feeds.reuters.com/reuters/topNews
+2025-07-17 18:00:36,639 - WARNING - Failed to parse RSS feed properly: https://feeds.reuters.com/reuters/topNews
+2025-07-17 18:00:36,640 - INFO - Scraping RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+2025-07-17 18:00:36,769 - INFO - Successfully scraped 10 articles from https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+2025-07-17 18:00:36,770 - INFO - Scraping RSS feed: https://www.theguardian.com/world/rss
+2025-07-17 18:00:36,905 - INFO - Successfully scraped 10 articles from https://www.theguardian.com/world/rss
+2025-07-17 18:00:36,905 - INFO - Scraping RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+2025-07-17 18:00:37,008 - INFO - Successfully scraped 10 articles from https://www.aljazeera.com/xml/rss/all.xml
+2025-07-17 18:00:37,009 - INFO - Scraping RSS feed: https://feeds.npr.org/1001/rss.xml
+2025-07-17 18:00:37,109 - INFO - Successfully scraped 10 articles from https://feeds.npr.org/1001/rss.xml
+2025-07-17 18:00:37,109 - INFO - Scraping RSS feed: https://feeds.washingtonpost.com/rss/world
+2025-07-17 18:00:37,164 - WARNING - Failed to parse RSS feed properly: https://feeds.washingtonpost.com/rss/world
+2025-07-17 18:00:37,165 - INFO - Scraping RSS feed: https://feeds.bloomberg.com/markets/news.rss
+2025-07-17 18:00:37,302 - INFO - Successfully scraped 10 articles from https://feeds.bloomberg.com/markets/news.rss
+2025-07-17 18:00:37,303 - INFO - Scraping RSS feed: https://feeds.ft.com/rss/home
+2025-07-17 18:00:37,333 - WARNING - Failed to parse RSS feed properly: https://feeds.ft.com/rss/home
+2025-07-17 18:00:37,335 - INFO - Scraping RSS feed: https://feeds.arstechnica.com/arstechnica/index
+2025-07-17 18:00:37,505 - INFO - Successfully scraped 10 articles from https://feeds.arstechnica.com/arstechnica/index
+2025-07-17 18:00:37,506 - INFO - Scraping RSS feed: https://www.wired.com/feed/rss
+2025-07-17 18:00:37,617 - INFO - Successfully scraped 10 articles from https://www.wired.com/feed/rss
+2025-07-17 18:00:37,617 - INFO - Total unique articles collected: 80
+2025-07-17 18:00:37,621 - INFO - Archived previous summary to archive/world_summary_20250717_180037.pdf
+2025-07-17 18:00:37,634 - INFO - PDF created successfully: world_summary.pdf
+2025-07-17 18:00:37,634 - INFO - News scraping session completed successfully
+2025-07-17 18:04:20,311 - INFO - WorldSummarize started
+2025-07-17 18:04:20,311 - INFO - Starting news scraping session
+2025-07-17 18:04:20,312 - INFO - Scraping RSS feed: https://feeds.bbci.co.uk/news/world/rss.xml
+2025-07-17 18:04:20,427 - INFO - Successfully scraped 10 articles from https://feeds.bbci.co.uk/news/world/rss.xml
+2025-07-17 18:04:20,428 - INFO - Scraping RSS feed: https://rss.cnn.com/rss/cnn_topstories.rss
+2025-07-17 18:04:20,509 - WARNING - Failed to parse RSS feed properly: https://rss.cnn.com/rss/cnn_topstories.rss
+2025-07-17 18:04:20,511 - INFO - Scraping RSS feed: https://feeds.reuters.com/reuters/topNews
+2025-07-17 18:04:20,548 - WARNING - Failed to parse RSS feed properly: https://feeds.reuters.com/reuters/topNews
+2025-07-17 18:04:20,549 - INFO - Scraping RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+2025-07-17 18:04:20,701 - INFO - Successfully scraped 10 articles from https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+2025-07-17 18:04:20,702 - INFO - Scraping RSS feed: https://www.theguardian.com/world/rss
+2025-07-17 18:04:20,843 - INFO - Successfully scraped 10 articles from https://www.theguardian.com/world/rss
+2025-07-17 18:04:20,843 - INFO - Scraping RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+2025-07-17 18:04:20,950 - INFO - Successfully scraped 10 articles from https://www.aljazeera.com/xml/rss/all.xml
+2025-07-17 18:04:20,951 - INFO - Scraping RSS feed: https://feeds.npr.org/1001/rss.xml
+2025-07-17 18:04:21,119 - INFO - Successfully scraped 10 articles from https://feeds.npr.org/1001/rss.xml
+2025-07-17 18:04:21,119 - INFO - Scraping RSS feed: https://feeds.washingtonpost.com/rss/world
+2025-07-17 18:04:21,184 - WARNING - Failed to parse RSS feed properly: https://feeds.washingtonpost.com/rss/world
+2025-07-17 18:04:21,185 - INFO - Scraping RSS feed: https://feeds.bloomberg.com/markets/news.rss
+2025-07-17 18:04:21,322 - INFO - Successfully scraped 10 articles from https://feeds.bloomberg.com/markets/news.rss
+2025-07-17 18:04:21,322 - INFO - Scraping RSS feed: https://feeds.ft.com/rss/home
+2025-07-17 18:04:21,352 - WARNING - Failed to parse RSS feed properly: https://feeds.ft.com/rss/home
+2025-07-17 18:04:21,353 - INFO - Scraping RSS feed: https://feeds.arstechnica.com/arstechnica/index
+2025-07-17 18:04:21,557 - INFO - Successfully scraped 10 articles from https://feeds.arstechnica.com/arstechnica/index
+2025-07-17 18:04:21,558 - INFO - Scraping RSS feed: https://www.wired.com/feed/rss
+2025-07-17 18:04:21,738 - INFO - Successfully scraped 10 articles from https://www.wired.com/feed/rss
+2025-07-17 18:04:21,739 - INFO - Total unique articles collected: 80
+2025-07-17 18:04:21,744 - INFO - Archived previous summary to archive/world_summary_20250717_180421.pdf
+2025-07-17 18:04:21,764 - INFO - PDF created successfully: world_summary.pdf
+2025-07-17 18:04:21,766 - INFO - News scraping session completed successfully
+2025-07-17 18:10:26,227 - INFO - WorldSummarize started
+2025-07-17 18:10:26,229 - INFO - Starting news scraping session
+2025-07-17 18:10:26,229 - INFO - Scraping RSS feed: https://feeds.bbci.co.uk/news/world/rss.xml
+2025-07-17 18:10:26,357 - INFO - Successfully scraped 10 articles from https://feeds.bbci.co.uk/news/world/rss.xml
+2025-07-17 18:10:26,357 - INFO - Scraping RSS feed: https://rss.cnn.com/rss/cnn_topstories.rss
+2025-07-17 18:10:26,468 - WARNING - Failed to parse RSS feed properly: https://rss.cnn.com/rss/cnn_topstories.rss
+2025-07-17 18:10:26,470 - INFO - Scraping RSS feed: https://feeds.reuters.com/reuters/topNews
+2025-07-17 18:10:26,507 - WARNING - Failed to parse RSS feed properly: https://feeds.reuters.com/reuters/topNews
+2025-07-17 18:10:26,507 - INFO - Scraping RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+2025-07-17 18:10:26,655 - INFO - Successfully scraped 10 articles from https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+2025-07-17 18:10:26,656 - INFO - Scraping RSS feed: https://www.theguardian.com/world/rss
+2025-07-17 18:10:26,795 - INFO - Successfully scraped 10 articles from https://www.theguardian.com/world/rss
+2025-07-17 18:10:26,796 - INFO - Scraping RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+2025-07-17 18:10:26,911 - INFO - Successfully scraped 10 articles from https://www.aljazeera.com/xml/rss/all.xml
+2025-07-17 18:10:26,911 - INFO - Scraping RSS feed: https://feeds.npr.org/1001/rss.xml
+2025-07-17 18:10:27,061 - INFO - Successfully scraped 10 articles from https://feeds.npr.org/1001/rss.xml
+2025-07-17 18:10:27,061 - INFO - Scraping RSS feed: https://feeds.washingtonpost.com/rss/world
+2025-07-17 18:10:27,168 - WARNING - Failed to parse RSS feed properly: https://feeds.washingtonpost.com/rss/world
+2025-07-17 18:10:27,168 - INFO - Scraping RSS feed: https://feeds.bloomberg.com/markets/news.rss
+2025-07-17 18:10:27,279 - INFO - Successfully scraped 10 articles from https://feeds.bloomberg.com/markets/news.rss
+2025-07-17 18:10:27,279 - INFO - Scraping RSS feed: https://feeds.ft.com/rss/home
+2025-07-17 18:10:27,321 - WARNING - Failed to parse RSS feed properly: https://feeds.ft.com/rss/home
+2025-07-17 18:10:27,321 - INFO - Scraping RSS feed: https://feeds.arstechnica.com/arstechnica/index
+2025-07-17 18:10:27,485 - INFO - Successfully scraped 10 articles from https://feeds.arstechnica.com/arstechnica/index
+2025-07-17 18:10:27,485 - INFO - Scraping RSS feed: https://www.wired.com/feed/rss
+2025-07-17 18:10:27,666 - INFO - Successfully scraped 10 articles from https://www.wired.com/feed/rss
+2025-07-17 18:10:27,666 - INFO - Total unique articles collected: 80
+2025-07-17 18:10:27,671 - INFO - Archived previous summary to archive/world_summary_20250717_181027.pdf
+2025-07-17 18:10:27,720 - INFO - PDF created successfully: world_summary.pdf
+2025-07-17 18:10:27,721 - INFO - News scraping session completed successfully
+2025-07-17 18:14:20,413 - INFO - WorldSummarize started
+2025-07-17 18:14:20,414 - INFO - Starting news scraping session
+2025-07-17 18:14:20,415 - INFO - Scraping RSS feed: https://feeds.bbci.co.uk/news/world/rss.xml
+2025-07-17 18:14:20,544 - INFO - Successfully scraped 10 articles from https://feeds.bbci.co.uk/news/world/rss.xml
+2025-07-17 18:14:20,545 - INFO - Scraping RSS feed: https://rss.cnn.com/rss/cnn_topstories.rss
+2025-07-17 18:14:20,599 - WARNING - Failed to parse RSS feed properly: https://rss.cnn.com/rss/cnn_topstories.rss
+2025-07-17 18:14:20,600 - INFO - Scraping RSS feed: https://feeds.reuters.com/reuters/topNews
+2025-07-17 18:14:20,617 - WARNING - Failed to parse RSS feed properly: https://feeds.reuters.com/reuters/topNews
+2025-07-17 18:14:20,618 - INFO - Scraping RSS feed: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+2025-07-17 18:14:20,752 - INFO - Successfully scraped 10 articles from https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+2025-07-17 18:14:20,752 - INFO - Scraping RSS feed: https://www.theguardian.com/world/rss
+2025-07-17 18:14:20,890 - INFO - Successfully scraped 10 articles from https://www.theguardian.com/world/rss
+2025-07-17 18:14:20,891 - INFO - Scraping RSS feed: https://www.aljazeera.com/xml/rss/all.xml
+2025-07-17 18:14:20,988 - INFO - Successfully scraped 10 articles from https://www.aljazeera.com/xml/rss/all.xml
+2025-07-17 18:14:20,989 - INFO - Scraping RSS feed: https://feeds.npr.org/1001/rss.xml
+2025-07-17 18:14:21,103 - INFO - Successfully scraped 10 articles from https://feeds.npr.org/1001/rss.xml
+2025-07-17 18:14:21,104 - INFO - Scraping RSS feed: https://feeds.washingtonpost.com/rss/world
+2025-07-17 18:14:21,195 - WARNING - Failed to parse RSS feed properly: https://feeds.washingtonpost.com/rss/world
+2025-07-17 18:14:21,197 - INFO - Scraping RSS feed: https://feeds.bloomberg.com/markets/news.rss
+2025-07-17 18:14:21,924 - INFO - Successfully scraped 10 articles from https://feeds.bloomberg.com/markets/news.rss
+2025-07-17 18:14:21,925 - INFO - Scraping RSS feed: https://feeds.ft.com/rss/home
+2025-07-17 18:14:22,014 - WARNING - Failed to parse RSS feed properly: https://feeds.ft.com/rss/home
+2025-07-17 18:14:22,015 - INFO - Scraping RSS feed: https://feeds.arstechnica.com/arstechnica/index
+2025-07-17 18:14:22,145 - INFO - Successfully scraped 10 articles from https://feeds.arstechnica.com/arstechnica/index
+2025-07-17 18:14:22,145 - INFO - Scraping RSS feed: https://www.wired.com/feed/rss
+2025-07-17 18:14:22,252 - INFO - Successfully scraped 10 articles from https://www.wired.com/feed/rss
+2025-07-17 18:14:22,253 - INFO - Total unique articles collected: 80
+2025-07-17 18:14:22,256 - INFO - Archived previous summary to archive/world_summary_20250717_181422.pdf
+2025-07-17 18:14:22,279 - INFO - PDF created successfully: world_summary.pdf
+2025-07-17 18:14:22,280 - INFO - News scraping session completed successfully
